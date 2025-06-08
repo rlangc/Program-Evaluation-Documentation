@@ -1,0 +1,1 @@
+This repository presents a structured collection of evaluation writing resources, tools, and samples designed to support the planning, execution, and reporting of learning and program evaluations. It includes academic work, real-world examples, research-backed frameworks, and templates tailored for instructional design, training, and educational program analysis.
