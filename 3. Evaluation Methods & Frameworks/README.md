@@ -1,0 +1,1 @@
+This section outlines foundational and contemporary evaluation models used in learning and development. Each framework is contextualized for real-world use, offering practical insights into selecting, adapting, and applying the right model for training, education, or program evaluation.
