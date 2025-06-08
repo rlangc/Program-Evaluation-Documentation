@@ -1,0 +1,1 @@
+These evaluation projects illustrate how to apply evaluative frameworks in real-world scenarios. They showcase complete documentation from planning to reporting stages, with mixed-method survey instruments, visualized data, and actionable insights tailored to program improvement.
