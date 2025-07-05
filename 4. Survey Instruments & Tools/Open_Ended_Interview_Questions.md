@@ -12,4 +12,4 @@
 5. What support or resources would help you apply the training more effectively?
 6. How do you think this training aligns with the goals of your department or organization?
 
-**Note:** Record responses verbatim and code for themes in post-interview analysis.
+>**Note:** Record responses verbatim and code for themes in post-interview analysis.
