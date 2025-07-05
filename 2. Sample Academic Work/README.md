@@ -1,1 +1,0 @@
-Explore a curated selection of academic assignments developed during graduate coursework, emphasizing program and training evaluation. These works connect theory to practice, showcasing data collection strategies, research methodology, and evaluative reasoning grounded in models such as Kirkpatrick, CIPP, and ADDIE.
