@@ -20,3 +20,7 @@
 | INT003    | “I didn’t have time to apply the model.” | Time Barrier   | Implementation | Mentioned workload constraints | 1     |
 
 > You can use Excel filters or pivot tables to explore theme patterns and frequency.
+
+## Download Template in Previous Menu
+
+The Excel Template is avliable for download, in 4. Survey Instruments and Tools
