@@ -23,4 +23,4 @@
 
 ## Download Template in Previous Menu
 
-The Excel Template is avliable for download, in 4. Survey Instruments and Tools
+The Excel Template is available for download, in 4. Survey Instruments and Tools
