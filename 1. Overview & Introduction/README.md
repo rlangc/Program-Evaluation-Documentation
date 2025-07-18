@@ -20,7 +20,6 @@ The repository covers:
 
 ## Included Sections
 
-- Sample Academic Work
 - Evaluation Frameworks & Methods
 - Project-Based Evaluation Samples
 - Survey Instruments & Observational Tools
